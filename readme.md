@@ -1,3 +1,5 @@
+saya membuat aplikasi inventaris untuk pesantren yang didalamnya terdapat admin dan super admin jadi website ini hanya untuk mengelola barang-barang yang terdapat di dalam pesantren dan memberi informasi di mana letak barang tersebut dan dari mana sumber barang tersebut ada dua dari internal yaitu pesantren sendiri yang membeli dan ada 1 lagi yaitu sumbernya dari donatur yang memberi barang kepada pesantren tersebut 
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
